@@ -1,2 +1,0 @@
-# MaiTrying
-java to learn
